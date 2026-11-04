@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "gcsevisuals",
+  "version": "${version}",
+  "name": "GCSE Visuals",
+  "description": "Auto swap, elytra helper, firework saver and HUD visuals.",
+  "environment": "client",
+  "entrypoints": { "client": ["gcse.visuals.GCSEVisuals"] },
+  "depends": { "fabricloader": ">=0.16.0", "minecraft": "~1.21.4", "java": ">=21", "fabric-api": "*" }
+}

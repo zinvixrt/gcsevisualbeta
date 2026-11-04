@@ -1,0 +1,20 @@
+{
+  "key.category.gcse": "GCSE Visuals",
+  "key.gcse.autoswap": "Toggle Auto Swap",
+  "key.gcse.elytra": "Toggle Elytra Helper",
+  "key.gcse.saver": "Toggle Firework Saver",
+  "key.gcse.admin": "Open Admin Panel",
+  "key.gcse.fullbright": "Toggle Fullbright",
+  "key.gcse.zoom": "Zoom (hold)",
+  "key.gcse.tape": "Toggle Tape Mouse",
+  "key.gcse.tapemode": "Tape Mouse: change mode",
+  "key.gcse.tapeup": "Tape Mouse: slower",
+  "key.gcse.tapedown": "Tape Mouse: faster",
+  "key.gcse.mark": "Add mark at looked block",
+  "key.gcse.unmark": "Remove mark you look at",
+  "key.gcse.hat": "Toggle China Hat",
+  "key.gcse.atmo": "Atmosphere: next time of day",
+  "key.gcse.weather": "Toggle Clear Weather",
+  "key.gcse.watermark": "Open Watermark Settings",
+  "key.gcse.visuals": "Toggle Visuals"
+}
